@@ -1,5 +1,5 @@
 # SREV-Special
-SREV改造纠正版，来自[t0729](https://github.com/t0729)   
+SREV改造纠正版，原改造版来自[t0729](https://github.com/t0729)   
 
 此版本为地图修复版，改正了中国地图的错误（虽然有点丑）    
 
